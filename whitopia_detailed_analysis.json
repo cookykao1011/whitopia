@@ -1,0 +1,46 @@
+{
+  "analysis_time": "2025-07-29T03:15:07.489732",
+  "total_stores": 3,
+  "store_openings": [
+    {
+      "store_name": "ホワイトピア美野島店",
+      "prefecture": "福岡県",
+      "date": "2025-07-07",
+      "full_text": "お知らせホワイトピア グループからのニュース2025-07-07ホワイトピア美野島店がOPEN！「ホワイトピア美野島店」が新たに福岡県にOPENしました！ お知らせホワイトピア グループからのニュース2025-07-07ホワイトピア美野島店がOPEN！「ホワイトピア美野島店」が新たに福岡県にOPENしました！",
+      "match_keyword": "OPEN",
+      "url": "https://www.whitopia.jp"
+    },
+    {
+      "store_name": "ホワイトピア高松伏石店",
+      "prefecture": "香川県",
+      "date": "2025-06-26",
+      "full_text": "詳細はこちらから→ホワイトピア美野島店2025-06-26ホワイトピア高松伏石店がOPEN！「ホワイトピア高松伏石店」が新たに香川県にOPENしました！ 詳細はこちらから→ホワイトピア美野島店2025-06-26ホワイトピア高松伏石店がOPEN！「ホワイトピア高松伏石店」が新たに香川県にOPENしました！",
+      "match_keyword": "OPEN",
+      "url": "https://www.whitopia.jp"
+    },
+    {
+      "store_name": "ホワイトピア高松鶴市店",
+      "prefecture": "香川県",
+      "date": "2025-06-09",
+      "full_text": "詳細はこちらから→ホワイトピア高松伏石店2025-06-09ホワイトピア高松鶴市店がOPEN！「ホワイトピア高松鶴市店」が新たに香川県にOPENしました！ 詳細はこちらから→ホワイトピア高松伏石店2025-06-09ホワイトピア高松鶴市店がOPEN！「ホワイトピア高松鶴市店」が新たに香川県にOPENしました！",
+      "match_keyword": "OPEN",
+      "url": "https://www.whitopia.jp"
+    }
+  ],
+  "monthly_stats": {
+    "2025-07": 1,
+    "2025-06": 2
+  },
+  "prefecture_stats": {
+    "福岡県": 1,
+    "香川県": 2
+  },
+  "summary": {
+    "total_identified_stores": 3,
+    "prefectures_count": 2,
+    "date_range": {
+      "start": "2025-06",
+      "end": "2025-07"
+    }
+  }
+}
